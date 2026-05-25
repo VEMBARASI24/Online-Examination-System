@@ -38,8 +38,8 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1069" height="986" alt="image" src="https://github.com/user-attachments/assets/c62c9fc8-60da-4093-b940-3ec608e475b7" />
 
-<img width="912" height="848" alt="Screenshot 2026-05-23 000800" src="https://github.com/user-attachments/assets/4158073d-ee98-46c0-9f07-6c727ace1d84" />
 
 
 
@@ -104,8 +104,8 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="457" height="796" alt="image" src="https://github.com/user-attachments/assets/7c352ed6-a11f-421f-bde4-0c567e911646" />
 
-<img width="605" height="800" alt="Screenshot 2026-05-23 000836" src="https://github.com/user-attachments/assets/0eecf839-dac3-4f74-b8c9-ce107cb14e82" />
 
 
 
